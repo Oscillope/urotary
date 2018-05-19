@@ -1,4 +1,4 @@
-###micropython-rotary
+### micropython-rotary
 
 This is a library that allows you to read rotary phone numbers in Micropython.
 
